@@ -1,2 +1,2 @@
-# FilmRevieverApplication
-Kliuieva-Vitalina-FilmRevieverApplication
+# FilmReviewerApplication
+Kliuieva-Vitalina-FilmReviewerApplication
